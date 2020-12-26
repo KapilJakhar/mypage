@@ -8,7 +8,7 @@ This is me:
 ![Capture](https://user-images.githubusercontent.com/76598730/103155335-89da0300-4764-11eb-884f-3aac1bd6ba67.PNG)
 
 Product management. 
-My Products
-My blogs
-My Travel Diaries
-My 
+My Products  
+My blogs  
+My Travel Diaries  
+
